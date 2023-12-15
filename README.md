@@ -32,7 +32,7 @@ To replicate the analysis or run the code:
 
 ### Files Included
 - `marketing_campaign.csv`: Dataset used for analysis.
-- `analysis_script.ipynb`: Jupyter Notebook containing the Python code for analysis.
+- `GroupFinalProject.ipynb`: Jupyter Notebook containing the Python code for analysis.
 
 ### Acknowledgments
 - Kaggle dataset source: [Customer Personality Analysis](https://www.kaggle.com/imakash3011/customer-personality-analysis)
